@@ -1,4 +1,4 @@
-# NAFLD Prediction App
+# NAFLD Prediction And LLM Based Lifestyle Recommendation
 
 This project predicts Non-Alcoholic Fatty Liver Disease (NAFLD) using clinical features and a machine learning model.
 
