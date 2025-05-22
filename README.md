@@ -9,7 +9,7 @@ This project predicts Non-Alcoholic Fatty Liver Disease (NAFLD) using clinical f
 - Gradio app for predictions
 - LLM-powered lifestyle recommendations
 
-## 📁 Folder Structure
+## 📁 File Structure
 - `final_rf_model.joblib , scaler(1).joblib/`: Trained model and Scaler applied
 - `indian_liver_pateint`: CSV data used in training
 - `NAFLD_Major.ipynb`: Training pipeline
